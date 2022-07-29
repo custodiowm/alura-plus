@@ -1,7 +1,8 @@
 <h1 align="center">Projeto Alura Plus</h1>
  
+<p align="center">
 <a href="https://alura-plus-two-liard.vercel.app/"><img src="https://github.com/custodiowm/alura-plus/blob/main/img/Logo%2B.png"></a>
-</h1>
+</h1> </p>
 
 Resultado final do Curso de HTML e CSS: praticando HTML/CSS da Alura
 
