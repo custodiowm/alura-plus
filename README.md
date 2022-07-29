@@ -23,4 +23,6 @@ Resultado final do Curso de HTML e CSS: praticando HTML/CSS da Alura
 <p>Criar um repositório para armazenar o código do projeto.</p>
 <p>Realizar o deploy de um site através do Github Pages ou Vercel e compartilhar o seu projeto com o mundo.</p>
 
-<P> Link do site na Vercel: https://alura-plus-two-liard.vercel.app/</p>
+## Acesso ao projeto
+
+<P> https://alura-plus-two-liard.vercel.ap </p>
