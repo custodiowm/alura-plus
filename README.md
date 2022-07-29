@@ -14,8 +14,9 @@ Resultado final do Curso de HTML e CSS: praticando HTML/CSS da Alura
 <img alt="GitHub Repo stars" src="https://img.shields.io/badge/ HTML - CSS -yellow">
 
 ## Tecnologias utilizadas
-* HTML
-* CSS
+
+- ``HTML``
+- ``CSS``
 
 ## Descrição do Projeto
 <p>Site criado no curso de HTML e CSS: praticando HTML/CSS da Alura.</p>
