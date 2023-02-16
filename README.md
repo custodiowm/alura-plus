@@ -27,4 +27,4 @@ Resultado final do Curso de HTML e CSS: praticando HTML/CSS da Alura
 
 ## Acesso ao projeto
 
-<P> https://alura-plus-two-liard.vercel.ap </p>
+<P> https://alura-plus-two-liard.vercel.app </p>
